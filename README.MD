@@ -1,1 +1,1 @@
-Meu primeiro projeto no Git Hub.
+Meu primeiro projeto no Git Hub está sendo baixado.
